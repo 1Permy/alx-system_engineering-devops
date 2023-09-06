@@ -1,3 +1,2 @@
-#!/bin/bash
-1-hello_you
+###How to create an alias
 
